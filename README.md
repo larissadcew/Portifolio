@@ -1,4 +1,4 @@
-## 👋🏼 Hello there, I'm Larissa!(WEB)
+## 👋🏼 Hello there, I'm Larissa!
 
 👨🏻‍💻 I have completed my studies at Harvard university.
 
