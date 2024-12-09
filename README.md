@@ -1,13 +1,10 @@
 # Larissa Barcellos Ferreira
 
-![Minha foto](Fotolinkedin.png)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-View the Project on GitHub
-larissadcew/Portfolio
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-[![ci.yaml passing](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![gem version 0.2.0](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
-
-Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme](http://pages-themes.github.io/minimal) to see what it looks like, or even use it today.
+![Thumbnail of Minimal](FotoLinkedin.png)
 
 ## 👋🏼 Hello there, I'm Larissa!(WEB)
 
