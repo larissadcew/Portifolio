@@ -9,11 +9,11 @@
 ## 👋🏼 Hello there, I’m Larissa!
 
 
-👨🏻‍💻 I’m a final year graduate student at the TU Berlin
+👨🏻‍💻 I have completed my studies at Harvard university.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📽️ I am also interested in assisting others on their path in the world of Machine Learning.
 ## Selected Experience
 
 🤖 Open Source Contributions
