@@ -17,7 +17,7 @@
 ## Selected Experience
 
 🤖 Open Source Contributions
-I have experience contributing to Arena Bench a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+I have experience contributing to mor the 50+projects a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
 
 Moreover, I have published a respective paper at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
