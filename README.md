@@ -9,11 +9,6 @@
 ## 👋🏼 Hello there, I’m Larissa!
 
 
-## 👋🏼 Hello there, I’m Larissa!
-
-## 👋🏼 Hello there, I’m Larissa!
-
-
 👨🏻‍💻 I’m a final year graduate student at the TU Berlin
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
