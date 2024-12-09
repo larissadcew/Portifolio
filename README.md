@@ -18,13 +18,7 @@ I have experience with independent research. I have implemented the Reward Const
 
 To accompany this work, I have submitted a blog post to the ICLR Blogposts Track communicating the paper’s theory and my results.
 
-### my projects:
 
-# MarioMax
-Mario is a ia rm ...link=
-
-# Image is Worth 16x16 Words:
-reimplementing a paper
 
 # Mail
 
