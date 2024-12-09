@@ -16,7 +16,7 @@ Moreover, I have published a respective paper at the IROS conference and in the 
 
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
 
-To accompany this work, I have submitted a blog post to the ICLR Blogposts Track communicating the paper’s theory and my results.
+To accompany this work, I have submitted a blog post to the ICLR Blogposts Track communicating the paper’s theory and my resultsz
 
 
 
