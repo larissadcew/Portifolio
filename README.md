@@ -1,3 +1,6 @@
+
+![Thumbnail of Minimal](Fotolinkedin.png)
+
 ## 👋🏼 Hello there, I’m Larissa!
 
 👨🏻‍💻 I’m a final year graduate student at the TU Berlin
