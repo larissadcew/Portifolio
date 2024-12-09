@@ -4,7 +4,12 @@
 
 ![Thumbnail of Minimal](thumbnail.png)
 
+<img src="Fotolinkedin.png" alt="Thumbnail of Minimal" width="200" style="float: left; margin-right: 20px;" />
 
+## 👋🏼 Hello there, I’m Larissa!
+
+
+## 👋🏼 Hello there, I’m Larissa!
 
 ## 👋🏼 Hello there, I’m Larissa!
 
